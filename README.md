@@ -2,6 +2,8 @@
 
 This script quotes_scraper.py scrapes quotes from a website, calculates the average word count for each author, and generates a table and histogram based on the word counts.
 
+It's is based on the Scrapy project tutorial you can find here: [Scrapy Tutorial](https://github.com/fisicamaldonado/quotesbot)
+
 ![quotes_authors](img/quotes_authors.png)
 
 ## Dependencies
