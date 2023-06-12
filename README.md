@@ -13,17 +13,18 @@ The following dependencies are required to run the script:
 
 ## Usage
 1. Install the required dependencies by running the following command:
-´´´
+
+```
 pip install bs4 requests pandas matplotlib
-´´´
+```
 
 2. Save the script as quotes_scraper.py.
 
 3. Run the script using the following command:
 
-´´´
+```
 python quotes_scraper.py
-´´´
+```
 
 ## Output
 The script will display the table with the average word count for each author and generate a histogram to visualize the word counts. The table will be printed in the console, and the histogram will be displayed as a plot.
